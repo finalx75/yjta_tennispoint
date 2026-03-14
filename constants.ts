@@ -10,7 +10,7 @@ export const RULES: Rule[] = [
   { category: Category.NATIONAL_RANKING, rank: '우승', count: '5회 미만', birthYear: '1969년 이후', recency: '7년 미만', score: 10 },
   { category: Category.NATIONAL_RANKING, rank: '우승', count: '5회 미만', birthYear: '1969년 이후', recency: '7년 이상', score: 8 },
   { category: Category.NATIONAL_RANKING, rank: '우승', count: '5회 미만', birthYear: '1968년 이전', recency: '7년 미만', score: 8 },
-  { category: Category.NATIONAL_RANKING, rank: '우승', count: '5회 미만', birthYear: '1968년 이전', recency: '7년 이상', score: 6 },
+  { category: Category.NATIONAL_RANKING, rank: '우승', count: '5회 미만', birthYear: '1968년 이전', recency: '7년 이상', score: 8 },
   { category: Category.NATIONAL_RANKING, rank: '준우승', count: '2회 이상', birthYear: '1969년 이후', recency: '7년 미만', score: 8 },
   { category: Category.NATIONAL_RANKING, rank: '준우승', count: '2회 이상', birthYear: '1969년 이후', recency: '7년 이상', score: 6 },
   { category: Category.NATIONAL_RANKING, rank: '준우승', count: '2회 이상', birthYear: '1968년 이전', recency: '7년 미만', score: 6 },
