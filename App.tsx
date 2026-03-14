@@ -129,7 +129,7 @@ const App: React.FC = () => {
           </svg>
         </div>
         <h1 className="text-2xl font-extrabold text-slate-800 mb-2">양주시테니스협회</h1>
-        <p className="text-lg font-medium text-slate-700 uppercase tracking-widest">점수 계산기(2026년)</p>
+        <p className="text-lg font-medium text-slate-700 uppercase tracking-widest">점수 계산기(2026년. Version 1.1_20260315)</p>
       </header>
 
       <main className="max-w-4xl mx-auto">
